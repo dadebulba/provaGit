@@ -1,5 +1,3 @@
 # Prova git nuovo
 
-Ciao sono il bulba
-
-Ciaone
+Ciao sono il bertu
