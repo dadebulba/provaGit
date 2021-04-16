@@ -2,8 +2,4 @@
 Ciao sono Davide
 Ciao sono il Micio
 
-Questa è la feature 1
-
-# Sezione contatti
-
-Non so cosa sto scrivendo ma funziona
+Ciao sono il bertu
